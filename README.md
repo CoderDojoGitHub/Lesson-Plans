@@ -7,7 +7,7 @@ list. This is also a great place to find out how you can help the [CoderDojo](ht
 There's excellent information at <http://coderdojo.com/> about starting a dojo and getting
 involved. If you'd like to help out our specific dojo, it would be great to [file an issue](https://github.com/CoderDojoSF/Lesson-Plans/issues/new)
 and introduce yourself and communicate with us about our next session, signing up and attending
-frequently, or contributing back to our repos. Also take a look at (CONTRIBUTING.MD)(https://github.com/CoderDojoSF/Lesson-Plans/blob/master/CONTRIBUTING.md)
+frequently, or contributing back to our repos. Also take a look at [CONTRIBUTING.MD](https://github.com/CoderDojoSF/Lesson-Plans/blob/master/CONTRIBUTING.md)
 for more tips.
 
 ## How you can get started creating a lesson
